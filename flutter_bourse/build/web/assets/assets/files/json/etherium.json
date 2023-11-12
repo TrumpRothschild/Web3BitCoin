@@ -1,0 +1,27 @@
+{
+  "status": 1,
+  "cnMsg": null,
+  "enMsg": null,
+  "data": [
+    {
+      "productId": 9,
+      "productName": "Get millions of ETH",
+      "productSort": 1,
+      "productUrl": "https://xinyuanimg-c.oss-cn-hongkong.aliyuncs.com/public/5e2865bfee684642a0009bcdd5f517ec.jpg",
+      "productStatus": "1",
+      "productPeriod": 60,
+      "productLevel": "3",
+      "productPriceMin": 1000,
+      "productPriceMax": 9999999,
+      "productOutputCustom": 4,
+      "productDefaultRate": 1,
+      "productPurchaseCurrency": "ETH",
+      "productReturnCurrency": "ETH",
+      "remark": "<p>Share 1 million ETH</p>",
+      "createBy": "herculescapital",
+      "createTime": 1647540176000,
+      "lastUpdateBy": "lcexbst1377",
+      "lastUpdateTime": 1657396787000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "statusCode": 200,
+  "message": "success",
+  "data": {
+    "ethMoney": "1421888.42",
+    "usdtMoney": "2451620013.76400000",
+    "participateNumber": "112576",
+    "nodeNumber": "192",
+    "miningPoolFxl": "10000000000",
+    "miningPoolDate": null,
+    "ethUsdRate": 1724.2,
+    "miningTotalLockUsdt": "31645079.93",
+    "dappTotalTransactionUsdt": "142334341.03",
+    "miningCountDownTotalSeconds": 81893,
+    "withdrawKdRate": 20
+  }
+}
